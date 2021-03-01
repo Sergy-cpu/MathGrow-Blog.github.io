@@ -15,3 +15,8 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+.logo{
+    width: 100%;
+    padding: 1em;
+}
