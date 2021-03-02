@@ -6,3 +6,5 @@ Un blog informativo sobre las matemáticas
  Felicidades si terminads de leer todo, ptroque subieremos contyenido diario
 
  creado por el increible grupoi de mathgrow
+
+ Disponiblr para todas las edadses
